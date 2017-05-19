@@ -1,1 +1,11 @@
 c:\users\2017414\documents\visual studio 2015\Projects\highandlow\highandlow\bin\Debug\highandlow.exe.config
+c:\users\2017414\documents\visual studio 2015\Projects\highandlow\highandlow\bin\Debug\highandlow.exe
+c:\users\2017414\documents\visual studio 2015\Projects\highandlow\highandlow\bin\Debug\highandlow.pdb
+c:\users\2017414\documents\visual studio 2015\Projects\highandlow\highandlow\bin\Debug\highandlow.xml
+c:\users\2017414\documents\visual studio 2015\Projects\highandlow\highandlow\obj\Debug\highandlow.vbprojResolveAssemblyReference.cache
+c:\users\2017414\documents\visual studio 2015\Projects\highandlow\highandlow\obj\Debug\highandlow.Form1.resources
+c:\users\2017414\documents\visual studio 2015\Projects\highandlow\highandlow\obj\Debug\highandlow.Resources.resources
+c:\users\2017414\documents\visual studio 2015\Projects\highandlow\highandlow\obj\Debug\highandlow.vbproj.GenerateResource.Cache
+c:\users\2017414\documents\visual studio 2015\Projects\highandlow\highandlow\obj\Debug\highandlow.exe
+c:\users\2017414\documents\visual studio 2015\Projects\highandlow\highandlow\obj\Debug\highandlow.xml
+c:\users\2017414\documents\visual studio 2015\Projects\highandlow\highandlow\obj\Debug\highandlow.pdb
